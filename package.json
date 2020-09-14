@@ -4,7 +4,9 @@
   "description": "interview task",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "cy:o": "cypress open",
+    "cy:r": "cypress run"
   },
   "repository": {
     "type": "git",
@@ -16,6 +18,7 @@
     "chai": "^3.5.0",
     "chai-http": "^4.3.0",
     "cypress": "^5.1.0",
+    "cypress-xpath": "^1.6.0",
     "eslint": "^7.8.1",
     "eslint-config-prettier": "^6.11.0",
     "eslint-config-recommended": "^4.1.0",

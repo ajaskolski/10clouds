@@ -1,1 +1,8 @@
-{}
+{
+  "video": false,
+  "baseUrl": "https://10clouds.com/",
+  "testFiles": "**/*.spec.ts",
+  "videoUploadOnPasses": false,
+  "fixturesFolder": false,
+  "pluginsFile": false
+}

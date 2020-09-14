@@ -18,6 +18,7 @@
 cypress/screenshots
 cypress/videos
 cypress/fixtures
+cypress/plugins
 
 # logs
 npm-debug.log*
